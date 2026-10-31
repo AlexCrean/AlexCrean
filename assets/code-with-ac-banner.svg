@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img">
+  <title>Code With AC | Alex Crean</title>
+  <rect width="1200" height="260" fill="#171817"/>
+  <path d="M32 32h1136v8H32zm0 188h1136v8H32zM32 32v196h8V32zm1128 0v196h8V32z" fill="#FE5A2C" shape-rendering="crispEdges"/>
+  <path d="M64 72h8v8h-8zm16 0h8v8h-8zm16 0h8v8h-8zm16 0h8v8h-8zm16 0h8v8h-8zm16 0h8v8h-8zM64 184h8v8h-8zm16 0h8v8h-8zm16 0h8v8h-8zm16 0h8v8h-8zm16 0h8v8h-8zm16 0h8v8h-8z" fill="#FE5A2C" shape-rendering="crispEdges"/>
+  <text x="64" y="124" fill="#FFF9F5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="44" font-weight="700" letter-spacing="4">CODE WITH AC</text>
+  <text x="66" y="164" fill="#FE5A2C" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" letter-spacing="3">SYSTEMS + EDUCATION + GAMES</text>
+  <text x="970" y="116" fill="#FFF9F5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22">+ * # @</text>
+  <text x="970" y="148" fill="#FE5A2C" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22">@ # * +</text>
+</svg>
