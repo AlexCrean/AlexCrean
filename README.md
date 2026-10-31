@@ -5,10 +5,10 @@ My long-term focus is on strengthening the relationship between education, acade
 
 ## <img src="./assets/icons/code.svg" width="24" height="24" alt=""> What I have been up to
 
-**Code With AC**
+**[Code With AC](https://codewithac.com)**
 A live, teacher-led classroom platform for programming, computing and game-development education. Featuring 50+ interactive activities, real-time learner support, formative assessment and gamified progression. Built with TypeScript, Vite, PostgreSQL, Deno and Cloudflare.
 
-**RAG Pipeline for SSOT. **
+**RAG Pipeline for SSOT**
 A privacy-conscious retrieval-augmented knowledge pipeline backed by SQLite, a local LLM and deterministic validation. Integrates scheduled CI/CD, Obsidian visualisation and synchronisation with organisational sources through OAuth and MCP.
 
 **Narrative Automation Pipeline**
